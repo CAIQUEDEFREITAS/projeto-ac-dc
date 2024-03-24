@@ -12,7 +12,7 @@ header {
 
 nav {
     background-color: black;
-    
+    padding-bottom: 2em;
     padding: 10px;
     min-width: 300px;
 
@@ -33,6 +33,7 @@ nav>a:hover {
 }
 
 main {
+    padding-bottom:2em;
     min-width: 300px;
     max-width: 1000px;
 
@@ -51,6 +52,7 @@ main>h1 {
 }
 
 section {
+
     padding: 20px;
     font-family: Arial, Helvetica, sans-serif;
     line-height: 2em;
